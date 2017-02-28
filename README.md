@@ -1,11 +1,13 @@
 Serce DB
 ========
+![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a5/HouseSparrow23.jpg "Sevimli Serce")
+
 This is a project aiming to demonstrate a simple database with BTree implementation on different platforms.
 SerceDB is going to be implemented on Java platform at first but later implementations is on the ToDo list
 for C/C++ and GO.
 
-Features;
----------
+Features
+--------
 
 
 | Features                    | Status        |
