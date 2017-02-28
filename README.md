@@ -41,6 +41,8 @@ Ports
 
 Serce
 -----
-**"Serce"** is the turkish name for **"Sparrow"**, it is **cute**!
+**"Serce"** (originally written as "**_Serçe_**") is the Turkish name for **"Sparrow"**, it is **cute**!
 
 [Serce](https://tr.wikipedia.org/wiki/Ser%C3%A7e)
+
+Notes
