@@ -1,7 +1,6 @@
 Serce DB
 ========
 
-->This is text-align:center<-
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/HouseSparrow23.jpg" alt="Sevimli Serce">
 </p>
