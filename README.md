@@ -1,7 +1,7 @@
 Serce DB
 ********
 This is a project aiming to demonstrate a simple database with BTree implementation on different platforms.
-SercdDB is going to be implemented on Java platform at first but later implementations is on the ToDo list
+SerceDB is going to be implemented on Java platform at first but later implementations is on the ToDo list
 for C/C++ and GO.
 
 features;
