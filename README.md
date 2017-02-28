@@ -1,7 +1,7 @@
 Serce DB
 ========
 <p align="center">
-	![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a5/HouseSparrow23.jpg "Sevimli Serce")
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/HouseSparrow23.jpg" alt="Sevimli Serce">
 </p>
 
 This is a project aiming to demonstrate a simple database with **BTree** implementation on different languages.
